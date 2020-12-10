@@ -1,0 +1,159 @@
+
+.contenido{
+    width: 1200px;
+    height: auto;
+    -ms-flex-item-align: center;
+    align-self: center;
+    margin: 0px auto;
+    padding: 0 auto;
+}
+.encabezado{
+    height: auto;
+}
+.menu{
+    height: px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    background-color: indianred;
+}
+.nombre-empresa{
+    width: 100%;
+    height: inherit;
+    background-color:indianred;
+    text-align: center;
+}
+.titulo-encabezado{
+    margin: 0;
+    padding: 0.5em 0;
+    text-align: center;
+    background-color: indianred;
+}
+.menu-encabezado{
+    padding: 0.5em 0;
+    list-style-type: none;
+    text-align: center;
+    width: 100%
+    
+}
+.t3-columnas{
+    columns: 3;
+    padding: 1em 15px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: indianred;
+    text-align: center;
+
+
+}
+.imagenes-encabezado{
+    height: px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+}
+.logo-empresa{
+    margin: 0%;
+}
+
+.imagen-superior{
+    margin: 0%
+}
+.seccion-servicios{
+    margin: 0%;
+    width: 100%;
+    height: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.secciones{
+    width: 33.3%;
+    height: auto;
+    margin: 0%;
+}
+.texto{
+    margin: 0.5%;
+    background-color: moccasin;
+    text-align: center
+}
+.servicio{
+    text-align: center
+}
+.servicio__parrafo{
+    text-align: center
+}
+.titulo-noticias{
+    width: 100%;
+    margin: 0%;
+    background-color:burlywood;
+    text-align: center
+}
+.seccion-noticias{
+    margin: 0%;
+    background-color: tan;
+}
+.fila1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.fila2{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0%;
+}
+.texto-noticia{
+    margin: 3%;
+    text-align: center;
+}
+.titulo-team{
+    width: 100%;
+    margin: 0%;
+    background-color:chocolate;
+    text-align: center
+}
+.info-team{
+    display: flex;
+    background-color: chocolate;
+
+}
+.texto-info{
+    margin: 5%;
+    text-align: center;
+    display: flex;
+}
+.pie-pagina{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: coral;
+    margin-top: 2%;
+    text-align: center
+}
+.pie-texto1{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;  
+}
+.pie-texto2{
+    margin-left: 5%;
+    text-align: center; 
+}
+.t5-column{
+    width: 20%;
+    height: auto;
+    margin: 0%;
+}
+.img-team{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.text-team{
+    text-align: center;
+    padding: 10%;
+}
